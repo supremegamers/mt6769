@@ -41,7 +41,7 @@ If you're one of them then _step back._
 
 _Proceed with caution, I am not responsible for any sort of **permanent** damage made to your device._
 
-## Unlock bootloader
+### Unlock bootloader
 
 > Warning: Unlocking the bootloader will cause your device userdata to be wiped up.
 
@@ -51,7 +51,7 @@ Then you should just simply follow [this guide](https://forum.hovatek.com/thread
 
 Later in fastboot you run this command: `fastboot flashing unlock`
 
-## Bypass secure boot and dump the whole rom
+### Bypass secure boot and dump the whole rom
 
 * Make sure your phone charge is below 2%, yes I ain't joking. You device could get stuck in the preloader mode on failed attempts and since this is a non-removable battery device we can't do anything other than just waiting for the battery to drain up totally. Just remember not to panic if you mess up and wait patiently.
 
@@ -64,11 +64,11 @@ Later in fastboot you run this command: `fastboot flashing unlock`
 > * Before attempting to readBack in SP_FLASH_TOOL, double-click on `preloader` item under `Download` tab and select `preloader_kf8_h696.bin` (Download from this repository)
 
 
-## Flash empty vbmeta.img to get rid of dm-verity
+### Flash empty vbmeta.img to get rid of dm-verity
 
 Follow `Method 3` in [this guide](https://forum.hovatek.com/thread-32719.html).
 
-## Patch boot.img from magisk and flash it
+### Patch boot.img from magisk and flash it
 
 Follow [this guide](https://forum.hovatek.com/thread-21427.html)
 
