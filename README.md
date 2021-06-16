@@ -1,5 +1,7 @@
 # Tecno Spark 7 Pro Rooting Guide
 
+First of all I would like to thank the hovatek community, specially the admins who are always there ready to help along their vast amount of informative guides unlike most of the scammers out there. Without their help I likely never would have gotten my device rooted.
+
 ### Device info
 ---------------
 
@@ -31,9 +33,7 @@ Steps:
 
 # The hard way
 
-First of all I would like to thank the hovatek community, specially the admins who are always there ready to help along their vast amount of informative guides unlike most of the scammers out there. Without their help I likely never would have gotten my device rooted.
-
-So if `The easy way` isn't in your favor then you gotta move in the hard path... _phew!_
+If `The easy way` isn't in your favor then you gotta move in the hard path... _phew!_
 
 Below are the steps, I need to warn you that this isn't for noobs.
 
