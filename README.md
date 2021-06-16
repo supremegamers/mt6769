@@ -53,7 +53,7 @@ Later in fastboot you run this command: `fastboot flashing unlock`
 
 ### Bypass secure boot and dump the whole rom
 
-* Make sure your phone charge is below 2%, yes I ain't joking. You device could get stuck in the preloader mode on failed attempts and since this is a non-removable battery device we can't do anything other than just waiting for the battery to drain up totally. Just remember not to panic if you mess up and wait patiently.
+* Make sure your phone charge is below 2%, yes I ain't joking. Your device could get stuck in the preloader mode on failed attempts and since this is a non-removable battery device we can't do anything other than just waiting for the battery to drain up totally for reviving it. Just remember not to panic if you mess up and wait patiently.
 
 * Follow [this guide](https://forum.hovatek.com/thread-37957.html) until step 14.
 
