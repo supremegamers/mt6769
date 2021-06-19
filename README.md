@@ -28,6 +28,7 @@ Steps:
 * [Unlocked bootloader.](#Unlock-bootloader)
 * Grab `boot_magisk_patched.img` from this repository.
 * Reboot into fastboot mode from adb: `adb reboot bootloader`
+* [Wipe vbmeta](#flash-empty-vbmetaimg-to-get-rid-of-dm-verity)
 * Finally flash the image: `fastboot flash boot boot_magisk_patched.img`
 * Enjoy!
 
